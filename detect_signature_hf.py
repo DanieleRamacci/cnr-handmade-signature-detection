@@ -5,7 +5,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 # === CONFIGURAZIONE ===
-HUGGINGFACE_TOKEN = "ß"  # <-- Incolla il tuo token Huggig Face qui
+HUGGINGFACE_TOKEN = "ß"  # <-- Incolla il  token Huggig Face qui
 IMAGES_DIR = "./docs-firmati/"       # Cartella con immagini PNG da analizzare
 OUTPUT_DIR = "output_inferenza"       # Dove salvare immagini annotate e file .txt
 SAVE_LABELS = True                    # True: salva anche le annotazioni in formato YOLO
